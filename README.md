@@ -12,3 +12,4 @@ Deploy small webpage into "nginx" container by writing a shell script
 - If there is an error during these steps, the script gives a helpful message so that the user can act upon it and proceed to the next steps.
 
 ## Execution
+Make sure you have your account on DockerHub. Clone the project and then execute the following command on terminal:
